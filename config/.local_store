@@ -1,0 +1,30 @@
+{
+    "FieldMetaDataCheck__c.object": {
+        "createdById": "00528000004cGWQAA2",
+        "createdByName": "API連携 シス管",
+        "createdDate": "2016-12-01T12:39:52.000Z",
+        "fileName": "unpackaged/objects/FieldMetaDataCheck__c.object",
+        "fullName": "FieldMetaDataCheck__c",
+        "id": "01I28000001sDq7EAE",
+        "lastModifiedById": "00528000004cGWQAA2",
+        "lastModifiedByName": "API連携 シス管",
+        "lastModifiedDate": "2016-12-01T12:39:52.000Z",
+        "manageableState": "unmanaged",
+        "type": "CustomObject",
+        "mmState": "clean"
+    },
+    "FieldMetaDataCheck__c-項目メタデータ検証用レイアウト.layout": {
+        "createdById": "00528000004cGWQAA2",
+        "createdByName": "API連携 シス管",
+        "createdDate": "2016-12-01T12:39:52.000Z",
+        "fileName": "unpackaged/layouts/FieldMetaDataCheck__c-項目メタデータ検証用レイアウト.layout",
+        "fullName": "FieldMetaDataCheck__c-項目メタデータ検証用レイアウト",
+        "id": "00h28000005wevEAAQ",
+        "lastModifiedById": "00528000004cGWQAA2",
+        "lastModifiedByName": "API連携 シス管",
+        "lastModifiedDate": "2016-12-01T13:04:33.000Z",
+        "manageableState": "unmanaged",
+        "type": "Layout",
+        "mmState": "clean"
+    }
+}

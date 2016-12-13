@@ -1,0 +1,17 @@
+{
+    "projectName": "notes2sfdc",
+    "username": "java_develop@comture.com",
+    "id": "cf5faba0-b7c6-11e6-8195-57b5326bd8ef",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap2.salesforce.com",
+    "workspace": "C:\\CSL\\project",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

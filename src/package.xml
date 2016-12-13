@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>FieldMetaDataCheck__c.AutoField__c</members>
+        <members>FieldMetaDataCheck__c.CheckBox__c</members>
+        <members>FieldMetaDataCheck__c.Currency__c</members>
+        <members>FieldMetaDataCheck__c.DateTime__c</members>
+        <members>FieldMetaDataCheck__c.Date__c</members>
+        <members>FieldMetaDataCheck__c.EncryptText__c</members>
+        <members>FieldMetaDataCheck__c.FormulaCheckBox__c</members>
+        <members>FieldMetaDataCheck__c.GeoLocation__c</members>
+        <members>FieldMetaDataCheck__c.LongTextArea__c</members>
+        <members>FieldMetaDataCheck__c.LookUp__c</members>
+        <members>FieldMetaDataCheck__c.Mail__c</members>
+        <members>FieldMetaDataCheck__c.MasterDetail__c</members>
+        <members>FieldMetaDataCheck__c.MultiPickList__c</members>
+        <members>FieldMetaDataCheck__c.Number__c</members>
+        <members>FieldMetaDataCheck__c.Percent__c</members>
+        <members>FieldMetaDataCheck__c.Phone__c</members>
+        <members>FieldMetaDataCheck__c.PickList__c</members>
+        <members>FieldMetaDataCheck__c.RichText__c</members>
+        <members>FieldMetaDataCheck__c.TextArea__c</members>
+        <members>FieldMetaDataCheck__c.Text__c</members>
+        <members>FieldMetaDataCheck__c.URL__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>FieldMetaDataCheck__c-項目メタデータ検証用レイアウト</members>
+        <name>Layout</name>
+    </types>
+    <version>36.0</version>
+</Package>
